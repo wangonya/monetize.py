@@ -1,2 +1,2 @@
 # monetize.py
-A Python binding for the Javascript [Web Monetization API](https://webmonetization.org/docs/api).
+A Python binding for the Web Monetization [Javascript API](https://webmonetization.org/docs/api).
