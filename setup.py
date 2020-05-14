@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 from setuptools import setup, find_packages
 
 with open("README.md", "r") as fh:
@@ -9,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
     name="pymonetize",
     version="1.0",
-    description="Easily add Monetization python web projects",
+    description="Easily add monetization to your python web projects",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/wangonya/pymonetize",
